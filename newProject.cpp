@@ -4,6 +4,7 @@ using namespace std;
 #include <iomanip>
 int main()
 {
+    cout << "CGPA CALCULATOR" << endl;
     cout << "This is a C++ programme to calculate marks of a single subject." << endl;
     bool q;
     cout << "Does your Subject includes lab Marks? If Yes Press '1' Otherwise Press '0'." << endl;
